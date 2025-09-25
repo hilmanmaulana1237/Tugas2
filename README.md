@@ -8,7 +8,8 @@ NIM: **1237050020**
 ## 🖼️ Preview Tugas
 ![Preview Layout](preview1.png) <br>
 
-![Preview Layout](preview2.png)
+![Preview Layout](<img src="preview2.png" width="280" alt="Preview Layout" />)
+<img src="preview2.png" width="280" alt="Preview Layout" />
 
 ---
 
