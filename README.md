@@ -8,6 +8,7 @@ NIM: **1237050020**
 ## 🖼️ Preview Tugas
 ![Preview Layout](preview1.png) <br>
 
+## 🖼️ Running Aplikasi
 <img src="preview2.png" width="280" alt="Preview Layout" />
 
 ---
