@@ -5,8 +5,10 @@ NIM: **1237050020**
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Preview Tugas
 ![Preview Layout](preview1.png)
+
+![Preview Layout](preview2.png)
 
 ---
 
