@@ -5,6 +5,11 @@ NIM: **1237050020**
 
 ---
 
+## 🖼️ Preview
+![Preview Layout](preview1.png)
+
+---
+
 ## Deskripsi Singkat — Tugas 2
 Membaca materi dan mengerjakan **Modul Pengerjaan Layout** di Android:
 
@@ -28,6 +33,3 @@ Membaca materi dan mengerjakan **Modul Pengerjaan Layout** di Android:
 2. Pilih emulator/HP (USB debugging aktif) → **Run ▶**  
 
 ---
-
-## 🖼️ Preview
-![Preview Layout](assets/layout-tugas2.jpg)
