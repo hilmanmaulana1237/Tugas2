@@ -1,6 +1,6 @@
 ## 👤 Pembuat
 **Hilman Maulana** — UIN Sunan Gunung Djati Bandung  
-Kelas: **Pengembangan Aplikasi Web (D)**  
+Kelas: **Pengembangan Aplikasi Mobile (D)**  
 NIM: **1237050020**
 
 ---
